@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Peifeng Ma (马培峰)
+title: Peifeng Ma (馬培峰)
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,28 +14,28 @@ status:
 
 # Organizations/Affiliations
 #organizations:
-#- name: 腾讯
+#- name: The Chinese University of Hong Kong
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 #interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+#- SAR/InSAR remote sensing
+#- Geohazard monitoring
+#- Big data analysis for sustainable development
 
 #education:
 #  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
+#  - course: PhD in Earth System and Geoinformation Science
+#    institution: The Chinese University of Hong Kong
+#    year: 2016
+#  - course: MEng in Signal and Information Processing
+#    institution: Chinese Academy of Sciences
 #    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
+#  - course: BSc in Geographic Information System
+#    institution: Nanjing University of Technology
 #    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
