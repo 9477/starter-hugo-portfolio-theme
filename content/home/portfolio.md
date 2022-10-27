@@ -28,12 +28,12 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
-      tag: ML
-    - name: Computer Vision
-      tag: CV
-    - name: NLP
-      tag: NLP
+    - name: Radar Remote Sensing
+      tag: RS
+    - name: Geohazard Monitoring
+      tag: GM
+    - name: Carbon Neutrality
+      tag: CN
 
 design:
   columns: '1'
